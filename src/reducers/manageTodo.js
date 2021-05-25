@@ -12,6 +12,7 @@ export default function manageTodo(state = {
     default:
       return state
   }
+  
   // if(action.type === "ADD_TODO") {
   //   state = {todos: [...state.todos, action.payload]}
   // }
